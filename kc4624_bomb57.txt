@@ -1,0 +1,7 @@
+bomb57
+Houses will begat jobs, jobs will begat houses.
+1 2 4 8 16 32
+4 0
+12 3
+jdoefg
+3 4 2 6 1 5
